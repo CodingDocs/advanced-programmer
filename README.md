@@ -4,6 +4,8 @@
 
 ### 正确提问
 
+[如何提问](docs/how-to-ask.md)
+
 我们平时任何时候都离不开提问特别是初学的时候，但是真正知道如何正确的提问的人很少。问别人问题前不要来一句“在吗”，你说你问了在吗我是回复好还是不回复好呢 ？不要让别人给你发 32 位的JDK，除非你是喜欢那个人。
 
 更多关于如何提问的内容，详见 github 上开源版『提问的智慧』 <https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md>，抽时间看一下，我想看完之后应该会有很多收获。
