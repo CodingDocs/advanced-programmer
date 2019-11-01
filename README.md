@@ -10,6 +10,7 @@
         - [实践](#实践)
         - [注意代码规范](#注意代码规范)
         - [沟通能力](#沟通能力)
+        - [其他](#其他)
     - [面试必知](#面试必知)
         - [如何获取大厂面试机会?](#如何获取大厂面试机会)
         - [面试的时候应该穿什么?](#面试的时候应该穿什么)
@@ -82,7 +83,7 @@
 
 ### 多用 Github
 
-没事多去Github转转，如果有能力可以参与到一些开源项目中。多看看别人开源的优秀项目，看看别人的代码和设计思路，看的多了，你的编程思想也会慢慢得到提升。除了这些优秀的开源项目之外，Github上面还有很多不错的开源文档、开源资料什么的，我觉得对我们平时学习都挺有帮助。Github用得好还能装一下，毕竟人家还是一个全英文网站，咳咳咳。
+没事多去 Github 转转，如果有能力可以参与到一些开源项目中。多看看别人开源的优秀项目，看看别人的代码和设计思路，看的多了，你的编程思想也会慢慢得到提升。除了这些优秀的开源项目之外，Github上面还有很多不错的开源文档、开源资料什么的，我觉得对我们平时学习都挺有帮助。Github用得好还能装一下，毕竟人家还是一个全英文网站，咳咳咳。
 
 ### 实践
 
@@ -101,6 +102,10 @@
 - 阿里巴巴Java开发手册（详尽版）[https://github.com/alibaba/p3c/blob/master/阿里巴巴Java开发手册（详尽版）.pdf](https://github.com/alibaba/p3c/blob/master/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E8%AF%A6%E5%B0%BD%E7%89%88%EF%BC%89.pdf)  
 - Google Java编程风格指南：<http://www.hawstein.com/posts/google-java-style.html>
 - Effective Java第三版中文版: <https://legacy.gitbook.com/book/jiapengcai/effective-java>
+
+### 其他
+
+- [别死写代码，这 25 条比涨工资都重要](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485670&idx=3&sn=1dc4c00d74695daa6cb0c29b5956b77a&chksm=cea2472df9d5ce3b11a7f459d79fa2003776bb6081257c6a2ac31b9aefc99963131f60264158&token=1328169465&lang=zh_CN#rd)
 
 ### 沟通能力
 
@@ -195,4 +200,11 @@
 更多代码优化相关内容推荐：
 
 - [业务复杂=if else？刚来的大神竟然用策略+工厂彻底干掉了他们！](https://juejin.im/post/5dad23685188251d2c4ea2b6)
+
 - [一些不错的 Java 实践！推荐阅读3遍以上！](http://lrwinx.github.io/2017/03/04/%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90-%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%86%99java%E5%90%97/)
+
+- [[解锁新姿势] 兄dei，你代码需要优化了](https://juejin.im/post/5dafbc02e51d4524a0060bdd)
+
+- [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485599&idx=1&sn=d83ff4e6b1ee951a0a33508a10980ea3&chksm=cea24754f9d5ce426d18b435a8c373ddc580c06c7d6a45cc51377361729c31c7301f1bbc3b78&token=1328169465&lang=zh_CN#rd)
+
+  
