@@ -216,3 +216,4 @@
 - [**不要一味的迷恋所谓的管理，把当官作为职场唯一的追求**](./docs/proverbs/不要一味的迷恋所谓的管理-把当官作为职场唯一的追求.md)
 - [认清现状，抓住机会](./docs/proverbs/认清现状-抓住机会.md)
 - [结合自己这些年在互联网的经历,送你一些不错的建议](./docs/proverbs/这些年在互联网的经历-送你一些不错的建议.md)
+- [如何超过大多数人](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485441&idx=1&sn=303a25ab02fa9f14a319923e6b0d9759&chksm=cea247caf9d5cedc3a5e1d31f26c08d8ae4c11c349fbdc91ac1d90d8b35807517accb5f5d527&token=2128752750&lang=zh_CN#rd)
