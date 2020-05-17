@@ -224,6 +224,10 @@
 - [一些不错的 Java 实践！推荐阅读 3 遍以上！](http://lrwinx.github.io/2017/03/04/%E7%BB%86%E6%80%9D%E6%9E%81%E6%81%90-%E4%BD%A0%E7%9C%9F%E7%9A%84%E4%BC%9A%E5%86%99java%E5%90%97/ "一些不错的 Java 实践！推荐阅读3遍以上！")
 - [[解锁新姿势] 兄 dei，你代码需要优化了](https://juejin.im/post/5dafbc02e51d4524a0060bdd "[解锁新姿势] 兄dei，你代码需要优化了")
 - [消灭 Java 代码的“坏味道”](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485599&idx=1&sn=d83ff4e6b1ee951a0a33508a10980ea3&chksm=cea24754f9d5ce426d18b435a8c373ddc580c06c7d6a45cc51377361729c31c7301f1bbc3b78&token=1328169465&lang=zh_CN#rd)
+- [Java工程师该如何编写高效代码？](https://mp.weixin.qq.com/s/-ioLU65Sxg8tTmPyItZ2Iw)
+-  [Java 编码技巧之高效代码 50 例](https://mp.weixin.qq.com/s/CqVgOJGGK8hPN9FielHuRg)
+-  [Java 代码精简之道](https://mp.weixin.qq.com/s/A1Z8YZyqQsFqK1TA1dTl2Q)
+- [写代码有这些想法，同事才不会认为你是复制粘贴程序员](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486697&idx=1&sn=1b56b2d04fed95e91766447cf4d9bd0b&chksm=cea24322f9d5ca340dc5aa6fed246da4f74ebff85727a445152974f99f655102243ada939d78&token=1348307856&lang=zh_CN#rd)
 
 ## 作为 IT 行业的过来人,你有什么话想对后辈说的?
 
