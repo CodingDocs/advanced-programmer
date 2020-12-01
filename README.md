@@ -103,7 +103,8 @@
 
 推荐阅读：
 
-- 阿里巴巴 Java 开发手册（嵩山版）[https://github.com/alibaba/p3c/blob/master/阿里巴巴 Java 开发手册（详尽版）.pdf](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf"https://github.com/alibaba/p3c/blob/master/阿里巴巴Java开发手册（嵩山版）.pdf")
+- 阿里巴巴 Java 开发手册（嵩山版）[https://github.com/alibaba/p3c/blob/master/阿里巴巴 Java 开发手册（嵩山版）.pdf](https://github.com/alibaba/p3c/blob/master/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%EF%BC%88%E5%B5%A9%E5%B1%B1%E7%89%88%EF%BC%89.pdf
+"https://github.com/alibaba/p3c/blob/master/阿里巴巴Java开发手册（嵩山版）.pdf")
 - Google Java 编程风格指南：<http://hawstein.com/2014/01/20/google-java-style/>
 - Effective Java 第三版中文版: <https://legacy.gitbook.com/book/jiapengcai/effective-java>
 
